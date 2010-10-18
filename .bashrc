@@ -1,3 +1,11 @@
+alias git_push="git push origin master"
+alias git_start="git remote add origin git@github.com:Wyrm/files.git"
+alias ooimpress="/usr/bin/soffice -impress"
+alias oodraw="/usr/bin/soffice -draw"
+alias oocalc="/usr/bin/soffice -calc"
+alias oobase="/usr/bin/soffice -base"
+alias oomath="/usr/bin/soffice -math"
+alias oowriter="/usr/bin/soffice -writer"
 alias ls='ls -h --group-directories-first --color=always'
 alias ll='ls -l'
 alias la='ls -a'
