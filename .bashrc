@@ -1,7 +1,7 @@
 alias ls='ls -h --group-directories-first --color=always'
 alias ll='ls -l'
 alias la='ls -a'
-alias pss='ps -e'
+alias pss='ps -e'sdfsfs
 alias dfh='df -h'
 alias rmr='rm -r'
 alias n="ncmpcpp"
